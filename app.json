@@ -33,6 +33,12 @@
         "projectId": "0812741b-4a46-4c11-9ae8-3eb2f37a30c9"
       }
     },
-    "owner": "aryanshaw"
+    "owner": "aryanshaw",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0812741b-4a46-4c11-9ae8-3eb2f37a30c9"
+    }
   }
 }
